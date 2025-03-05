@@ -1,0 +1,7 @@
+/* 
+For this file, what you to do this that go the google cloud console and navigate the service account section there
+after doing this select the service account that you are using to maintain the terraform and click upon that
+Go to the keys and dowmload the json format of the service account key .
+
+After downloading it, open the file and copy the content in there and paste it here.
+*/
